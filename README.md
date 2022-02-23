@@ -1,2 +1,2 @@
-# FRC-Labview-Guide
-Guide for starting out with Labview programming for dummies.
+# FRC-LabVIEW-Guide
+Guide for starting out with LabVIEW programming for dummies.
