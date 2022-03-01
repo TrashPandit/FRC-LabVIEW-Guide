@@ -1,0 +1,72 @@
+h1, h2, h3, h4, h5, h6 {
+	color: #FFFFFF;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+
+#welcome {
+	padding-left: 400px;
+}
+
+#installing {
+	padding-left: 372px;
+}
+
+#template {
+	padding-left: 472px;
+}
+
+#file {
+	padding-left: 400px;
+}
+
+#block {
+	padding-left: 372px;
+}
+
+#program {
+	padding-left: 372px;
+}
+
+#running {
+	padding-left: 372px;
+}
+
+#installation {
+ 	padding-left: 70px;
+}
+
+#main {
+	position: absolute;
+	left: 250px;
+}
+
+#install {
+	position: absolute;
+	left: 300px;
+}
+
+#templates {
+	position: absolute;
+	left: 424px;
+}
+
+#files {
+	position: absolute;
+	left: 506px;
+}
+
+#blocks {
+	position: absolute;
+	left: 639px;
+}
+
+#programming {
+	position: absolute;
+	left: 840px;
+}
+
+#run {
+	position: absolute;
+	left: 988px;
+}
