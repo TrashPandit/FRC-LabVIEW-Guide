@@ -7,7 +7,7 @@
 	<body>
 		<style>
 			body {
-  				background-image: url('Background.png');
+  				background-image: url('Images/Background.png');
 			}
 		</style>
 		<button type="button" id="main"><a href="./Main.HTML">Main</a></button>
@@ -20,23 +20,23 @@
 		<br>
 		<h1 id="file">Understanding the files and what they do</h1>
 		<h3>During this lesson, you will only have to deal with the .vi's in the "Team Code" folder, to open it, click the little plus next to the folder icon</h3>
-		<img src="files(1).png"/>
-		<img src="files(2).png"/>
+		<img src="Images/files(1).png"/>
+		<img src="Images/files(2).png"/>
 		<hr><h3>To "begin" this journey of file understanding, you must first start in the begin.vi file, as you see below</h3>
 		<h3>To open up this view, use control + e when you first open up the file</h3>
-		<img src="files(3).png"/>
+		<img src="Images/files(3).png"/>
 		<h3>This may not make much sense yet, but just know that begin.vi is where you will declare or instantiate all of you "variables" (such as motor controllers, solenoids, etc.)</h3>
 		<hr><h3>Next is the Finish.vi file</h3>
 		<h3>Again, control + e to open it up in this view, also know as the "block diagram"</h3>
-		<img src="files(4).png"/>
+		<img src="Images/files(4).png"/>
 		<h3>This file is used to close or "finish" all of the variables that you instantiated beforehand. Just as you must close a file when opened as to not cause errors, so you must with LabVIEW</h3>
 		<h3>As you see, the variables "Joystick 0" and "Left and Right Motors" are closed in finish.vi, since we began them before</h3>
 		<hr><h3>Next is the Teleop.vi, or the code for how the bot works when it is user controlled</h3>
-		<img src="files(5).png"/>
+		<img src="Images/files(5).png"/>
 		<h3>You don't need to understand all of this yet, but just know that this code gets the values from the joystick and sets them as the motors values directly to drive</h3>
 		<hr><h3>The last file you will need to know about is Autonomous Independent.vi</h3>
 		<img src="files(6).png"/>
-		<br><img src="files(7).png"/>
+		<br><img src="Images/files(7).png"/>
 		<h3>This is the code for how the robot will run during the autonomous period in the match. The square box is called a case loop and that has different cases that are changed by the game tools for which autonomous you want to run. Each autonomous mode has it's own separate code for it</h3>
 	</body>
 </html>
