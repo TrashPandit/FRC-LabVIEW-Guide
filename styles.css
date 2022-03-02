@@ -3,37 +3,16 @@ h1, h2, h3, h4, h5, h6 {
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
-
-#welcome {
-	padding-left: 400px;
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-#installing {
-	padding-left: 372px;
-}
-
-#template {
-	padding-left: 472px;
-}
-
-#file {
-	padding-left: 400px;
-}
-
-#block {
-	padding-left: 372px;
-}
-
-#program {
-	padding-left: 372px;
-}
-
-#running {
-	padding-left: 372px;
-}
-
-#installation {
- 	padding-left: 70px;
+.test {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #main {
