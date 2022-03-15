@@ -19,6 +19,10 @@ a {
 	margin-right: auto;
 }
 
+#buttons {
+	padding-left: 500px;
+}
+
 #welcome {
 	padding-left: 210px;
 }
@@ -54,5 +58,5 @@ a {
 
 #run {
 	position: absolute;
-	left: 988px;
+	left: 842px;
 }
